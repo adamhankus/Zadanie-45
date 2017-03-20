@@ -1,0 +1,121 @@
+#p00 {
+  position:absolute;
+  width: 100vmax;
+  height: 100vmin;
+  background-color: #00dead;
+  top: 0;
+  left: 0;
+  }
+
+#p01 {
+  position: relative;
+  width: 30%;
+  height: 30%;
+  background-color: #fd1685;
+  top: 0;
+  left: 0;
+}
+
+#o01 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: #f4dce6;
+  top: 25%;
+  left: 25%;
+  border-radius: 50%;
+}
+
+#p02 {
+  position: relative;
+  width: 30%;
+  height: 30%;
+  background-color: #0c0fee;
+  top: -30%;
+  left: 32%;
+}
+
+#o02 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: #666;
+  top: 25%;
+  left: 25%;
+  border-radius: 50%;
+}
+
+#p03 {
+  position: relative;
+  width: 30%;
+  height: 30%;
+  background-color: #325f3c;
+  top: -60%;
+  left: 64%;
+}
+
+#o03 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: #7c207e;
+  top: 25%;
+  left: 25%;
+  border-radius: 50%;
+}
+#p04 {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  background-color: #fd1685;
+  top: 32%;
+  left: 0;
+}
+
+#o04 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: #f4dce6;
+  top: 25%;
+  left: 25%;
+  border-radius: 50%;
+}
+
+#p05 {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  background-color: #0c0fee;
+  top: 32%;
+  left: 32%;
+}
+
+#o05 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: #666;
+  top: 25%;
+  left: 25%;
+  border-radius: 50%;
+}
+
+#p06 {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  background-color: #325f3c;
+  top: 32%;
+  left: 64%;
+}
+
+#o06 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: #7c207e;
+  top: 25%;
+  left: 25%;
+  border-radius: 50%;
+}
